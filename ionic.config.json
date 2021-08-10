@@ -1,0 +1,7 @@
+{
+  "name": "ricomtr",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
